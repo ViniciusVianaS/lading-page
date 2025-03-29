@@ -50,7 +50,6 @@ export function Footer() {
               Contato via WhatsApp
             </a>
           </div>
-          div
         </footer>
       </div>
     </section>
